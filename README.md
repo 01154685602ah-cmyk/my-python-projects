@@ -20,4 +20,4 @@ Small Python projects built from my phone using Termux.
 
 ## Author
 
-Built by smsm darck. My site: https://01154685602ah-cmyk.github.io/mysite/
+Built by smsm darck. My site: https://smsm-dark.github.io/mysite/
