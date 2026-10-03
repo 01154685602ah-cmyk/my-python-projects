@@ -10,6 +10,7 @@ Small Python projects built from my phone using Termux.
 | `weather2.py` | Same, with a colored table using rich |
 | `todo.py` | To-do manager that saves tasks in a JSON file |
 | `calc.py` | Calculator with divide-by-zero protection |
+| `bot.py` | Telegram bot, token is read from a .env file |
 
 ## How to run
 
